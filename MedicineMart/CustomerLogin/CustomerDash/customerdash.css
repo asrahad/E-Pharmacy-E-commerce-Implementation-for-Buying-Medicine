@@ -1,0 +1,52 @@
+.navi-bar{
+    background-image: linear-gradient(aqua,aquamarine);
+}
+
+.navi-bar a{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.navi-bar a:hover{
+    color: rgb(0, 153, 255);
+}
+
+.lmdiv{
+    display: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-image: linear-gradient(darkblue,blue);
+    padding: 10px;
+}
+
+.showlmdiv{
+    display: block;
+}
+
+.ani{
+    animation-name: faded;
+    animation-duration: 5s;
+}
+
+@keyframes faded{
+    from{
+        opacity: 0.1;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+.abt-us{
+    animation-name: abtu;
+    animation-duration: 3s;
+}
+
+@keyframes abtu{
+    from{
+        margin-right: 800px;
+    }
+    to{
+        margin-right: 0px;
+    }
+}

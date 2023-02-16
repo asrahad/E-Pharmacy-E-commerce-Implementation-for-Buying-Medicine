@@ -1,0 +1,46 @@
+.adminlogin-img{
+    width: 100%;
+}
+
+.adminlogin-header2{
+    background-image: linear-gradient(white,skyblue);
+}
+
+.my-adminl-h1{
+    font-size: 35px;
+    text-align: center;
+    padding-top: 26px;
+    color: darkblue;
+    
+}
+
+.adminlogin-header3{
+    border: darkblue 5px solid;
+    margin-top: 25px;
+    width: 100%;
+}
+
+.adminl-h2{
+    padding: 10px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.adminl-form1{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-weight: bold;
+
+}
+
+.adminl-form2{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-weight: bold;
+    margin-top: 30px;
+
+}
+
+.my-hidden{
+    visibility: hidden;
+}

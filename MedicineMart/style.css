@@ -1,0 +1,68 @@
+.my-home-img{
+    height: 100%;
+    width: 100%;
+}
+
+.h1-font{
+    font-size: 35px;
+    text-align: center;
+    color: darkblue;
+}
+
+.h3-font{
+    font-size: 25px;
+    text-align: center;
+    color: purple;
+    padding-top: 10px;
+}
+
+.header-div2{
+    background-image: linear-gradient(white,skyblue);
+    padding-top: 22px;
+}
+
+.my-btn-admin{
+    margin: 0 auto;
+    display: block;
+    margin-top: 7%;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 18px;
+}
+
+.my-btn-company{
+    margin: 0 auto;
+    display: block;
+    font-size: 18px;
+    padding-left: 28.5px;
+    padding-right: 29px;
+    
+}
+
+.my-btn-customer{
+    margin: 0 auto;
+    display: block;
+    margin-top: 4%;
+    font-size: 18px;
+    padding-left: 29px;
+    padding-right: 29px;
+}
+
+.my-p{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5%;
+}
+
+.header-div3{
+    margin-top: 25px;
+    border: darkblue 5px solid;
+    width: 100%;
+}
+
+.my-h2{
+    padding: 10px;
+    text-align: center;
+    font-size: 28px;
+    
+}
